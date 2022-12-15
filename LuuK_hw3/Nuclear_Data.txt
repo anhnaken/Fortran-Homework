@@ -1,0 +1,139 @@
+ Input the proton number:
+32
+          32
+ Input the baryon number:
+70
+          70
+ N =           38
+ Z =          32
+ A =          70
+ M_ZA =   65125.8594
+ E_B =  -8.66921616
+ A =          70
+ E_Volume =  -15.8000002
+ A =          70
+ E_Surface =   4.44036198
+ A =          70
+ E_Coulomb =   2.52015638
+ A =          70
+ E_Asymmetry =  0.170265302
+
+ Input the proton number:
+72
+          72
+ Input the baryon number:
+179
+         179
+ N =          107
+ Z =          72
+ A =         179
+ M_ZA =   166532.281
+ E_B =  -8.06820202
+ A =         179
+ E_Volume =  -15.8000002
+ A =         179
+ E_Surface =   3.24713278
+ A =         179
+ E_Coulomb =   3.64854074
+ A =         179
+ E_Asymmetry =  0.836125553
+
+ Input the proton number:
+18
+          18
+ Input the baryon number:
+38
+          38
+ N =           20
+ Z =          18
+ A =          38
+ M_ZA =   35364.3125
+ E_B =  -8.49194336
+ A =          38
+ E_Volume =  -15.8000002
+ A =          38
+ E_Surface =   5.44322777
+ A =          38
+ E_Coulomb =   1.80063283
+ A =          38
+ E_Asymmetry =   6.41966686E-02
+
+ Input the proton number:
+26
+          26
+ Input the baryon number:
+56
+          56
+ N =           30
+ Z =          26
+ A =          56
+ M_ZA =   52103.8945
+ E_B =  -8.65832233
+ A =          56
+ E_Volume =  -15.8000002
+ A =          56
+ E_Surface =   4.78323507
+ A =          56
+ E_Coulomb =   2.24020410
+ A =          56
+ E_Asymmetry =  0.118239790
+
+ Input the proton number:
+20
+          20
+ Input the baryon number:
+40
+          40
+ N =           20
+ Z =          20
+ A =          40
+ M_ZA =   37232.0820
+ E_B =  -8.37299538
+ A =          40
+ E_Volume =  -15.8000002
+ A =          40
+ E_Surface =   5.35095215
+ A =          40
+ E_Coulomb =   2.07605219
+ A =          40
+ E_Asymmetry =   0.00000000
+
+ Input the proton number:
+92
+          92
+ Input the baryon number:
+235
+         235
+ N =          143
+ Z =          92
+ A =         235
+ M_ZA =   218683.984
+ E_B =  -7.64149475
+ A =         235
+ E_Volume =  -15.8000002
+ A =         235
+ E_Surface =   2.96548057
+ A =         235
+ E_Coulomb =   4.14390755
+ A =         235
+ E_Asymmetry =   1.04911721
+
+ Input the proton number:
+92
+          92
+ Input the baryon number:
+238
+         238
+ N =          146
+ Z =          92
+ A =         238
+ M_ZA =   221457.094
+ E_B =  -7.57958794
+ A =         238
+ E_Volume =  -15.8000002
+ A =         238
+ E_Surface =   2.95296788
+ A =         238
+ E_Coulomb =   4.07440901
+ A =         238
+ E_Asymmetry =   1.19303536
